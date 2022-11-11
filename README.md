@@ -1,7 +1,11 @@
-### Hi there 👋
+### Holaa 👋
 
 
-**Faber0399/Faber0399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soy Faber,** bienvenidos a mi perfil de Github donde encontraras proyectos con lenguajes de programacion en Java, JavaScript y el uso de herramientas como MySQL y NodeJs, de igual forma puedes encontrar herramientas de diseño web como HTML, CSS, Bootstrap.✨✨ 
+
+**Have Fun!**
+convert myimage.gif -fuzz 1% -layers Optimize ![optimized](https://user-images.githubusercontent.com/101674812/201275742-14a56354-4757-4707-9a92-2fce24f434bf.gif)
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 
