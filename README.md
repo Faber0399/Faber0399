@@ -11,14 +11,13 @@ Quiero contarte un poco acerca de mi:
 :grinning:
 ``` javascript
 const about = {
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [Bootstrap 5, Node, MySQL,],
-  architecture: ["apiRest","design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+  Lenguajes: [Javascript, HTML, CSS, Python, Java],
+  Herramientas: [Bootstrap 5, Node, MySQL,],
+  Arquitectura: ["apiRest","design system pattern"],
+  Estudios académicos: {
+                        Ingenieria: "Ingeniero Industrial",
+                        Finanzas: "Estudiante deFinanzas y Negocios Internacionales 8 semestre",
                       },
- curiosity: "Quiero aprender cada dia "
+ curiosity: "Soy un apasionado por la economía y la tecnología"
 }
 
