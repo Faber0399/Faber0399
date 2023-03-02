@@ -11,8 +11,9 @@ Quiero contarte un poco acerca de mi:
 :grinning:
 ``` javascript
 const about = {
-  Lenguajes: [Javascript, HTML, CSS, Python, Java],
-  Herramientas: [Bootstrap 5, Node, MySQL,],
+  Lenguajes: [Javascript, Python, Java],
+  Herramientas: [Bootstrap 5, Node, MySQL,HTML, CSS],
+  Frameworks: [Spring]
   Arquitectura: ["apiRest","design system pattern"],
   Estudios académicos: {
                         Ingenieria: "Ingeniero Industrial",
