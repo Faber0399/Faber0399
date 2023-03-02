@@ -12,7 +12,7 @@ Quiero contarte un poco acerca de mi:
 ``` javascript
 const about = {
   Lenguajes: [Javascript, Python, Java],
-  Herramientas: [Bootstrap 5, Node, MySQL,HTML, CSS],
+  Herramientas: [Bootstrap 5, Node, MySQL, HTML, CSS],
   Frameworks: [Spring]
   Arquitectura: ["apiRest","design system pattern"],
   Estudios académicos: {
